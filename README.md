@@ -13,6 +13,10 @@ Computer vision pipeline that converts video footage into a 2D tactical radar ma
 | 🚁 Drone overhead footage | Full-field nadir tracking | 🔴 Planned |
 | 🎖️ Military / tactical | Team movement on terrain map | 🔴 Planned |
 
+## Sample Output
+
+![Tactical Radar Output](docs/images/tactical_radar_output.png)
+
 ## Pipeline
 
 ```
