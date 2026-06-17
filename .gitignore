@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+outputs/
+data/sample_clips/*.mp4
+*.mp4
+.DS_Store
