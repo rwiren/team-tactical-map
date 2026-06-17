@@ -1,6 +1,10 @@
 # Team Tactical Map
 
+[![Version](https://img.shields.io/badge/Version-v0.1.0-yellow.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17-orange.svg)](#)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwiren/team-tactical-map/blob/main/notebooks/broadcast_to_radar.ipynb)
+
 
 Computer vision pipeline that converts video footage into a 2D tactical radar map — tracking team members, assigning teams by color, and projecting positions onto a top-down field view.
 
